@@ -1,2 +1,2 @@
 # task2
-I have make Kuku kube game
+I have make Kuku game
